@@ -7,6 +7,7 @@
 // This is Maximum Histogram Area problem
 // Links:
 // https://stackoverflow.com/questions/4311694/maximize-the-rectangular-area-under-histogram
+// https://tech.pic-collage.com/algorithm-largest-area-in-histogram-84cc70500f0c
 // https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/
 
 using System.CodeDom.Compiler;
